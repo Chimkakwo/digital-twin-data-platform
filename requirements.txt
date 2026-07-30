@@ -3,7 +3,6 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-jupyter
 sqlalchemy
 psycopg2-binary
 fastapi

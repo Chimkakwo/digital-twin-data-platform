@@ -219,4 +219,5 @@ __marimo__/
 
 # Data
 data/raw/
+data/sample/
 data/processed/
